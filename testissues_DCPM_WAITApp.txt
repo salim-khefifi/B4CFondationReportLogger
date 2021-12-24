@@ -1,0 +1,228 @@
+[
+  {
+    "expand": "operations,versionedRepresentations,editmeta,changelog,customfield_10010.requestTypePractice,renderedFields",
+    "id": "11052",
+    "self": "https://b4csoftwaresolutions.atlassian.net/rest/api/2/issue/11052",
+    "key": "DCPM-27",
+    "fields": {
+      "statuscategorychangedate": "2021-12-17T19:24:48.61+01:00",
+      "issuetype": {
+        "self": "https://b4csoftwaresolutions.atlassian.net/rest/api/2/issuetype/10027",
+        "id": "10027",
+        "description": "A small, distinct piece of work.",
+        "iconUrl": "https://b4csoftwaresolutions.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+        "name": "Task",
+        "subtask": false,
+        "avatarId": 10318,
+        "hierarchyLevel": 0
+      },
+      "timespent": null,
+      "customfield_10030": [],
+      "customfield_10031": null,
+      "project": {
+        "self": "https://b4csoftwaresolutions.atlassian.net/rest/api/2/project/10015",
+        "id": "10015",
+        "key": "DCPM",
+        "name": "DEL-CODE Product Management",
+        "projectTypeKey": "business",
+        "simplified": false,
+        "avatarUrls": {
+          "48x48": "https://b4csoftwaresolutions.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10561",
+          "24x24": "https://b4csoftwaresolutions.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10561?size=small",
+          "16x16": "https://b4csoftwaresolutions.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10561?size=xsmall",
+          "32x32": "https://b4csoftwaresolutions.atlassian.net/rest/api/2/universal_avatar/view/type/project/avatar/10561?size=medium"
+        }
+      },
+      "customfield_10032": null,
+      "customfield_10033": null,
+      "fixVersions": [],
+      "customfield_10034": null,
+      "aggregatetimespent": null,
+      "resolution": null,
+      "customfield_10035": null,
+      "customfield_10036": null,
+      "customfield_10037": [],
+      "customfield_10027": null,
+      "customfield_10028": null,
+      "customfield_10029": null,
+      "resolutiondate": null,
+      "workratio": -1,
+      "lastViewed": null,
+      "watches": {
+        "self": "https://b4csoftwaresolutions.atlassian.net/rest/api/2/issue/DCPM-27/watchers",
+        "watchCount": 1,
+        "isWatching": false
+      },
+      "created": "2021-12-11T20:38:36.888+01:00",
+      "customfield_10020": null,
+      "customfield_10021": null,
+      "customfield_10022": null,
+      "priority": {
+        "self": "https://b4csoftwaresolutions.atlassian.net/rest/api/2/priority/1",
+        "iconUrl": "https://b4csoftwaresolutions.atlassian.net/images/icons/priorities/highest.svg",
+        "name": "Highest",
+        "id": "1"
+      },
+      "customfield_10023": null,
+      "labels": [],
+      "customfield_10016": null,
+      "customfield_10017": null,
+      "customfield_10018": {
+        "hasEpicLinkFieldDependency": false,
+        "showField": false,
+        "nonEditableReason": {
+          "reason": "PLUGIN_LICENSE_ERROR",
+          "message": "The Parent Link is only available to Jira Premium users."
+        }
+      },
+      "customfield_10019": "0|i004uw:",
+      "aggregatetimeoriginalestimate": null,
+      "timeestimate": null,
+      "versions": [],
+      "issuelinks": [
+        {
+          "id": "10023",
+          "self": "https://b4csoftwaresolutions.atlassian.net/rest/api/2/issueLink/10023",
+          "type": {
+            "id": "10000",
+            "name": "Blocks",
+            "inward": "is blocked by",
+            "outward": "blocks",
+            "self": "https://b4csoftwaresolutions.atlassian.net/rest/api/2/issueLinkType/10000"
+          },
+          "inwardIssue": {
+            "id": "11018",
+            "key": "DCPM-24",
+            "self": "https://b4csoftwaresolutions.atlassian.net/rest/api/2/issue/11018",
+            "fields": {
+              "summary": "Benchmark DEL-CODE Biteaway.",
+              "status": {
+                "self": "https://b4csoftwaresolutions.atlassian.net/rest/api/2/status/10018",
+                "description": "",
+                "iconUrl": "https://b4csoftwaresolutions.atlassian.net/",
+                "name": "Done",
+                "id": "10018",
+                "statusCategory": {
+                  "self": "https://b4csoftwaresolutions.atlassian.net/rest/api/2/statuscategory/3",
+                  "id": 3,
+                  "key": "done",
+                  "colorName": "green",
+                  "name": "Done"
+                }
+              },
+              "priority": {
+                "self": "https://b4csoftwaresolutions.atlassian.net/rest/api/2/priority/2",
+                "iconUrl": "https://b4csoftwaresolutions.atlassian.net/images/icons/priorities/high.svg",
+                "name": "High",
+                "id": "2"
+              },
+              "issuetype": {
+                "self": "https://b4csoftwaresolutions.atlassian.net/rest/api/2/issuetype/10027",
+                "id": "10027",
+                "description": "A small, distinct piece of work.",
+                "iconUrl": "https://b4csoftwaresolutions.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10318?size=medium",
+                "name": "Task",
+                "subtask": false,
+                "avatarId": 10318,
+                "hierarchyLevel": 0
+              }
+            }
+          }
+        }
+      ],
+      "assignee": {
+        "self": "https://b4csoftwaresolutions.atlassian.net/rest/api/2/user?accountId=5eca97e2e0611d0c180eee7b",
+        "accountId": "5eca97e2e0611d0c180eee7b",
+        "avatarUrls": {
+          "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5eca97e2e0611d0c180eee7b/59a9ac02-6462-4e84-bb24-93b16e604732/48",
+          "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5eca97e2e0611d0c180eee7b/59a9ac02-6462-4e84-bb24-93b16e604732/24",
+          "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5eca97e2e0611d0c180eee7b/59a9ac02-6462-4e84-bb24-93b16e604732/16",
+          "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5eca97e2e0611d0c180eee7b/59a9ac02-6462-4e84-bb24-93b16e604732/32"
+        },
+        "displayName": "Sami KACHAI",
+        "active": true,
+        "timeZone": "Africa/Tunis",
+        "accountType": "atlassian"
+      },
+      "updated": "2021-12-17T19:24:48.609+01:00",
+      "status": {
+        "self": "https://b4csoftwaresolutions.atlassian.net/rest/api/2/status/10038",
+        "description": "This was auto-generated by Jira Service Management during workflow import",
+        "iconUrl": "https://b4csoftwaresolutions.atlassian.net/images/icons/status_generic.gif",
+        "name": "Waiting for approval",
+        "id": "10038",
+        "statusCategory": {
+          "self": "https://b4csoftwaresolutions.atlassian.net/rest/api/2/statuscategory/2",
+          "id": 2,
+          "key": "new",
+          "colorName": "blue-gray",
+          "name": "To Do"
+        }
+      },
+      "components": [],
+      "timeoriginalestimate": null,
+      "description": null,
+      "customfield_10010": null,
+      "customfield_10014": null,
+      "customfield_10015": "2021-12-15",
+      "customfield_10005": null,
+      "customfield_10006": null,
+      "customfield_10007": null,
+      "security": null,
+      "customfield_10008": null,
+      "aggregatetimeestimate": null,
+      "customfield_10009": null,
+      "summary": "Deploy DEL-CODE V1.5.0 (Biteaway)",
+      "creator": {
+        "self": "https://b4csoftwaresolutions.atlassian.net/rest/api/2/user?accountId=5eca97e2e0611d0c180eee7b",
+        "accountId": "5eca97e2e0611d0c180eee7b",
+        "avatarUrls": {
+          "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5eca97e2e0611d0c180eee7b/59a9ac02-6462-4e84-bb24-93b16e604732/48",
+          "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5eca97e2e0611d0c180eee7b/59a9ac02-6462-4e84-bb24-93b16e604732/24",
+          "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5eca97e2e0611d0c180eee7b/59a9ac02-6462-4e84-bb24-93b16e604732/16",
+          "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5eca97e2e0611d0c180eee7b/59a9ac02-6462-4e84-bb24-93b16e604732/32"
+        },
+        "displayName": "Sami KACHAI",
+        "active": true,
+        "timeZone": "Africa/Tunis",
+        "accountType": "atlassian"
+      },
+      "subtasks": [],
+      "reporter": {
+        "self": "https://b4csoftwaresolutions.atlassian.net/rest/api/2/user?accountId=5eca97e2e0611d0c180eee7b",
+        "accountId": "5eca97e2e0611d0c180eee7b",
+        "avatarUrls": {
+          "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5eca97e2e0611d0c180eee7b/59a9ac02-6462-4e84-bb24-93b16e604732/48",
+          "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5eca97e2e0611d0c180eee7b/59a9ac02-6462-4e84-bb24-93b16e604732/24",
+          "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5eca97e2e0611d0c180eee7b/59a9ac02-6462-4e84-bb24-93b16e604732/16",
+          "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5eca97e2e0611d0c180eee7b/59a9ac02-6462-4e84-bb24-93b16e604732/32"
+        },
+        "displayName": "Sami KACHAI",
+        "active": true,
+        "timeZone": "Africa/Tunis",
+        "accountType": "atlassian"
+      },
+      "aggregateprogress": {
+        "progress": 0,
+        "total": 0
+      },
+      "customfield_10000": "{}",
+      "customfield_10001": null,
+      "customfield_10002": null,
+      "customfield_10003": null,
+      "customfield_10004": null,
+      "customfield_10039": null,
+      "environment": null,
+      "duedate": "2021-12-17",
+      "progress": {
+        "progress": 0,
+        "total": 0
+      },
+      "votes": {
+        "self": "https://b4csoftwaresolutions.atlassian.net/rest/api/2/issue/DCPM-27/votes",
+        "votes": 0,
+        "hasVoted": false
+      }
+    }
+  }
+]

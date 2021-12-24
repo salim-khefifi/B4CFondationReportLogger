@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<ActivityReports>
+<MailConfiguration>        
+    <FromAddress>khefifisalim01@gmail.com</FromAddress>
+    <ToAddress>sami.kachai@b4creation.org </ToAddress>
+    <CcAdress>sadok.agili@b4creation.org</CcAdress>
+	<FromPassword>aekxrkggxdinjuee</FromPassword>
+</MailConfiguration>
+<DataTimeConfiguration>        
+    <Day>4</Day>
+	<Time>4</Time>
+</DataTimeConfiguration>	
+</ActivityReports> 
